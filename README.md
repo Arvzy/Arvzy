@@ -1,2 +1,9 @@
+<style>
+  .testing {
+    text-color: green;
+  }
+</style>
+
 # Hi, This is Kwisoo
-Config files for my GitHub profile.
+
+<p class=testing>Hello, I am Kwisoo and this is my GitHub</p>

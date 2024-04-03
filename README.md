@@ -4,4 +4,4 @@
 
 [check out this sick-ahh website i created for some school project a long time ago](https://bstwbpg-arvzy.vercel.app)
 <br>
-[or how about this portfolio thing](https://kwisoo.vercel.app)
+[or how about this unfinished portfolio thing](https://kwisoo.vercel.app)

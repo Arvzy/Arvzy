@@ -1,3 +1,3 @@
-# Hi, This is Kwisoo
+# Brother,
 
-<p class=testing style="text-color:green;">and this is my GitHub</p>
+<p class=testing style="text-color:green;">I no longer have idea of what i'm doing</p>

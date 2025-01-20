@@ -1,6 +1,6 @@
 # Could programming be fun?
 
-<p class=testing style="text-color:green;">I no longer have idea of what i'm doing</p>
+<span style="color: green"></span>
 
 [check out this sick-ahh website i created for some school project a long time ago](https://bstwbpg-arvzy.vercel.app)<br>
 

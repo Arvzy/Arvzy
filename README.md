@@ -1,4 +1,4 @@
-# Think of these thoughts as limitless light exposing closing cicuitry of fright.
+# Could programming be fun?
 
 <p class=testing style="text-color:green;">I no longer have idea of what i'm doing</p>
 
